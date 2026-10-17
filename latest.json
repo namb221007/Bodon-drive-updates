@@ -1,9 +1,10 @@
 {
   "packageName": "mn.bodon.drive",
-  "versionCode": 6,
-  "versionName": "0.1.0-beta.6",
+  "versionCode": 9,
+  "versionName": "0.1.0-beta.9",
   "minSdk": 26,
-  "size": 422905,
-  "sha256": "25e88a515234eaacf91ea1107f423c09de10d7e31a0b29aab7b225e89d2cc669",
-  "url": "https://namb221007.github.io/Bodon-drive-updates/BODON_Drive_0.1.0-beta.6.apk"
+  "size": 456008,
+  "sha256": "3869d247bb3c40a5a5dfc59fef5d9c4d0cd7a446a37cec7c59577e6d4c8074bd",
+  "url": "https://namb221007.github.io/Bodon-drive-updates/Bodon_M_0.1.0-beta.9.apk"
 }
+
